@@ -25,7 +25,6 @@ body {
 }
 .postcard-body {
 	display: flex;
-	justify-content: flex-start;
 }
 .body-left p:first-child {
 	margin-top: 0%;
@@ -45,7 +44,7 @@ input {
 }
 button {
 	background-color: darkgrey;
-	padding: 5px;
+	padding: 3px;
 	font-family: "Oxanium", cursive;
 	border: none;
 	border-bottom: 1px solid black;
